@@ -1,0 +1,9 @@
+0x0000AA40HIHI0x0000AA40HIHI0x0000AA40HIHI0x0000F231HIHI0x8000AA40HIHI########## Cache Simulator Results ##########
+Total Loads: 5
+Total Stores: 0
+Load Hits: 0
+Load Misses: 0
+Store Hits: 0
+Store Misses: 0
+Total Cycles: 104
+#############################################

@@ -1,0 +1,148 @@
+Cache 1
+Total loads: 318197
+Total stores: 197486
+Load hits: 312969
+Load misses: 5228
+Store hits: 187684
+Store misses: 9802
+Total cycles: 10896455
+
+Cache 2
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 9841257
+
+Cache 3
+Total loads: 318197
+Total stores: 197486
+Load hits: 314876
+Load misses: 3321
+Store hits: 188366
+Store misses: 9120
+Total cycles: 8871962
+
+Block 1
+Total loads: 318197
+Total stores: 197486
+Load hits: 311409
+Load misses: 6788
+Store hits: 178812
+Store misses: 18674
+Total cycles: 9560695
+
+Block 2
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 9841257
+
+Block 3
+Total loads: 318197
+Total stores: 197486
+Load hits: 315811
+Load misses: 2386
+Store hits: 192755
+Store misses: 4731
+Total cycles: 9982897
+
+Block 4
+Total loads: 318197
+Total stores: 197486
+Load hits: 316802
+Load misses: 1395
+Store hits: 195030
+Store misses: 2456
+Total cycles: 10154288
+
+Associativity 1
+Total loads: 318197
+Total stores: 197486
+Load hits: 298863
+Load misses: 19334
+Store hits: 185202
+Store misses: 12284
+Total cycles: 20293149
+
+Associativity 2
+Total loads: 318197
+Total stores: 197486
+Load hits: 312298
+Load misses: 5899
+Store hits: 187483
+Store misses: 10003
+Total cycles: 11377384
+
+Associativity 3
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 9841257
+
+Associativity 4
+Total loads: 318197
+Total stores: 197486
+Load hits: 314928
+Load misses: 3269
+Store hits: 188417
+Store misses: 9069
+Total cycles: 8826814
+
+Write 1
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 9841257
+
+Write 2
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 25646257
+
+Allocation 1
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 9841257
+
+Allocation 2
+INVALID PAIR
+
+Eviction 1
+Total loads: 318197
+Total stores: 197486
+Load hits: 314798
+Load misses: 3399
+Store hits: 188250
+Store misses: 9236
+Total cycles: 9341084
+
+Eviction 2
+Total loads: 318197
+Total stores: 197486
+Load hits: 314171
+Load misses: 4026
+Store hits: 188047
+Store misses: 9439
+Total cycles: 9841257
+
+
